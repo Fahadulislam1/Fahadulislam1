@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://github.com/Fahadulislam1/Fahadulislam1)
+![Profile views](https://github.com/Fahadulislam1)
 
 Skills: Java /HTML / CSS
 
