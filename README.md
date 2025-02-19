@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views]((https://komarev.com/ghpvc/?username=fahadulislam1&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=fahadulislam1&color=red)
 
 Skills: Java /HTML / CSS
 
