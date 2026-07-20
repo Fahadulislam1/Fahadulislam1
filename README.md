@@ -79,15 +79,27 @@
 ## 🟢 Cybersecurity Portfolio
 Professional cybersecurity portfolio website.
 
+🔗 Repository:
+https://github.com/Fahadulislam1/cybersecurity-portfolio
+
+🌐 Live Demo:
+https://fahadulislam1.github.io/cybersecurity-portfolio/
+
 ## 🟢 AI Pentesting Pipeline
 Automation for reconnaissance and vulnerability assessment.
+
+🚧 Status: In Progress
 
 ## 🟢 Security Automation Toolkit
 Python-based security automation scripts.
 
+🚧 Status: Coming Soon
+
+
 ## 🟢 Network Security Lab
 Learning and testing environment for cybersecurity.
 
+🚧 Status: Coming Soon
 ---
 
 # 📫 Contact
