@@ -4,6 +4,7 @@
 </p>
 # 👋 Hi, I'm Fahadul Islam
 
+![](https://komarev.com/ghpvc/?username=Fahadulislam1&label=Profile%20Views&color=0e75b6&style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
