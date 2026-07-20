@@ -159,3 +159,12 @@ If you're looking for a Cybersecurity Specialist, Ethical Hacker, or Penetration
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fahadulislam1&theme=github-dark)
 
+# 🏅 GitHub Achievements
+
+- 🚀 Open Source Contributor
+- 🔒 Cybersecurity Researcher
+- 🐍 Python Developer
+- 🛡️ Ethical Hacker
+- 🌱 Lifelong Learner
+
+  
