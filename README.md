@@ -102,20 +102,28 @@ Learning and testing environment for cybersecurity.
 🚧 Status: Coming Soon
 ---
 
+
 # 📫 Contact
 
-📧 Email: fahaduli59@gmail.com
+📧 **Email:**  
+fahaduli59@gmail.com
 
-🌐 Portfolio:
+🌐 **Portfolio:**  
 https://fahadulislam1.github.io/cybersecurity-portfolio/
 
-💻 GitHub:
+💻 **GitHub:**  
 https://github.com/Fahadulislam1
 
+📘 **Facebook:**  
+https://www.facebook.com/share/19BPjZmDzb/
+
 ---
 
+## 🤝 Let's Connect
+
+If you're looking for a Cybersecurity Specialist, Ethical Hacker, or Penetration Tester, feel free to connect with me.
+
 ⭐ Thank you for visiting my profile.
----
 
 ## 📊 GitHub Statistics
 
