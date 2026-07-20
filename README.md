@@ -102,9 +102,7 @@ https://github.com/Fahadulislam1
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity Graph
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Fahadulislam1&theme=matrix&no-frame=true&row=1&column=6)
-
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fahadulislam1&theme=github-dark)
 
