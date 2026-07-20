@@ -173,4 +173,12 @@ If you're looking for a Cybersecurity Specialist, Ethical Hacker, or Penetration
 
 — Ethical Hacking Mindset
 
+# 🚀 2026 Goals
+
+- ✅ Build Professional Cybersecurity Portfolio
+- 🎯 Become a Professional Penetration Tester
+- 🤖 Develop AI-Powered Security Tools
+- 🐞 Contribute to Bug Bounty Programs
+- 📚 Continue Learning & Research
+
   
