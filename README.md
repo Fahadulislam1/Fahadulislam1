@@ -1,4 +1,7 @@
 ![Banner](file_00000000d40c8207a1b930810710d668.png)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Cybersecurity+Specialist;Ethical+Hacker;Penetration+Tester;Bug+Bounty+Hunter;Python+Security+Automation" alt="Typing SVG" />
+</p>
 # 👋 Hi, I'm Fahadul Islam
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
