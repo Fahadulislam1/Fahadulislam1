@@ -99,6 +99,3 @@ https://github.com/Fahadulislam1
 ## 📊 GitHub Statistics
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Fahadulislam1&theme=github-dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=Fahadulislam1&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahadulislam1&layout=compact&theme=tokyonight&cache_seconds=1800)
