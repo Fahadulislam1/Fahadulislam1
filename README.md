@@ -167,4 +167,10 @@ If you're looking for a Cybersecurity Specialist, Ethical Hacker, or Penetration
 - 🛡️ Ethical Hacker
 - 🌱 Lifelong Learner
 
+# 💬 Favorite Quote
+
+> "The best defense is a good offense, done ethically."
+
+— Ethical Hacking Mindset
+
   
