@@ -99,3 +99,12 @@ https://github.com/Fahadulislam1
 ## 📊 GitHub Statistics
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Fahadulislam1&theme=github-dark)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Fahadulislam1&theme=matrix&no-frame=true&row=1&column=6)
+
+---
+
