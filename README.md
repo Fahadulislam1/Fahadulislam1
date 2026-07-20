@@ -133,6 +133,22 @@ If you're looking for a Cybersecurity Specialist, Ethical Hacker, or Penetration
 - 🐍 Python for Cybersecurity
 - 🚀 Building AI-Powered Security Projects
 
+# 🌍 Languages
+
+- 🇧🇩 Bangla (Native)
+- 🇬🇧 English (Intermediate)
+- 🇮🇳 Hindi (Conversational)
+- 🇵🇰 Urdu (Conversational)
+- 🇸🇦 Arabic (Basic)
+
+# 🎯 Current Focus
+
+- 🔐 Web Application Penetration Testing
+- 🐞 Bug Bounty Hunting
+- 🤖 AI-Powered Cybersecurity
+- 🛡️ Security Automation
+- 📖 Continuous Learning
+
 ## 📊 GitHub Statistics
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Fahadulislam1&theme=github-dark)
