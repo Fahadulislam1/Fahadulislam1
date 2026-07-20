@@ -1,6 +1,11 @@
 ![Banner](file_00000000d40c8207a1b930810710d668.png)
 # 👋 Hi, I'm Fahadul Islam
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 # 🛡️ Cybersecurity Specialist | Ethical Hacker | Penetration Tester | Bug Bounty Hunter
 
 > "Protecting systems through ethical hacking and continuous learning."
