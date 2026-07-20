@@ -125,6 +125,14 @@ If you're looking for a Cybersecurity Specialist, Ethical Hacker, or Penetration
 
 ⭐ Thank you for visiting my profile.
 
+# 🏆 Certifications
+
+- 🎓 Arena WebSecurity Student
+- 📚 Currently Learning Cybersecurity & Ethical Hacking
+- 🤖 AI Security Automation
+- 🐍 Python for Cybersecurity
+- 🚀 Building AI-Powered Security Projects
+
 ## 📊 GitHub Statistics
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Fahadulislam1&theme=github-dark)
